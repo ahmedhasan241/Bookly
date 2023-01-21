@@ -458,7 +458,7 @@ section {
 
 .swiper-button-next:hover,
 .swiper-button-prev:hover {
-  background: var(--black);
+  background: var(--green);
   color: #fff;
 }
 
